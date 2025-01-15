@@ -1,4 +1,4 @@
-his is a simple and responsive website created using HTML and CSS. The project demonstrates basic web development concepts, including semantic HTML structure, styling with CSS, and responsive design.
+This is a simple and responsive website created using HTML and CSS. The project demonstrates basic web development concepts, including semantic HTML structure, styling with CSS, and responsive design.
 
 Features:
 
